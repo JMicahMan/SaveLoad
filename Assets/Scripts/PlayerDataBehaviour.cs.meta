@@ -1,9 +1,20 @@
 fileFormatVersion: 2
 guid: 64b872de0e225324483bcda22ebaeafe
+timeCreated: 1559594113
+licenseType: Pro
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - data: {fileID: 11400000, guid: bb1a30f9af34f004887a2f613d03bba2, type: 2}
+  - SaveText: {instanceID: 0}
+  - LoadText: {instanceID: 0}
+  - AddText: {instanceID: 0}
+  - SubText: {instanceID: 0}
+  - Add: {instanceID: 0}
+  - Subtract: {instanceID: 0}
+  - Save: {instanceID: 0}
+  - Load: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
